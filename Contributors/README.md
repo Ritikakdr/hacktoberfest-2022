@@ -15,8 +15,8 @@
 </tr>
 
 <tr>
-<td align="center"><a href="https://github.com/vishalj0501"><img src="https://avatars.githubusercontent.com/u/92500255?s=40&v=4" width="100px;" alt=""/><br /><sub><b>Vishal</b></sub></a><br /></td>
-<td align="center"><img src="Screenshot/screenshot_vishal.png"></td>
+<td align="center"><a href="https://github.com/vishalj0501"><img src="https://avatars.githubusercontent.com/u/116477443?s=40&v=4"/><br /><sub><b>Vishal</b></sub></a><br /></td>
+<td align="center"><img src="Screenshot/screenshot_rithika.png"></td>
 </tr>
 
 
