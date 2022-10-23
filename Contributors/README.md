@@ -15,7 +15,7 @@
 </tr>
 
 <tr>
-<td align="center"><a href="https://github.com/vishalj0501"><img src="https://avatars.githubusercontent.com/u/116477443?s=40&v=4"/><br /><sub><b>Vishal</b></sub></a><br /></td>
+<td align="center"><a href="https://github.com/Ritikakdr"><img src="https://avatars.githubusercontent.com/u/116477443?s=40&v=4"/><br /><sub><b>Vishal</b></sub></a><br /></td>
 <td align="center"><img src="Screenshot/screenshot_Rithika.png"></td>
 </tr>
 
